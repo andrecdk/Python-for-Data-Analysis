@@ -45,10 +45,12 @@ Visualisasi data master menggunakan perpustakaan seperti Matplotlib dan Seaborn.
 Jangan ragu untuk menjelajahi buku catatan ini dan meningkatkan keterampilan analisis data Anda. Jika Anda memiliki pertanyaan atau memerlukan panduan lebih lanjut, jangan ragu untuk menghubungi kami.
 
 Selamat belajar! 🚀📊
->[!NOTE]
->Modul ini dalam bahasa campuran: Bahasa Indonesia dan Inggris
->
+>[!WARNING]
 >This module is in mixed language: Indonesian and English
+>
+>Modul ini dalam bahasa campuran: Bahasa Indonesia dan Inggris
+
+
 
 
 ### Stats and Info
