@@ -1,4 +1,12 @@
 # Data Analysis Learning Notebooks
+
+<div align=" center;">
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="150"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" width="150"/>
+  </p>
+</div>
+
 Welcome to this directory of learning notebooks focused on data analysis with Python. These notebooks are sourced from an online course, carefully curated to provide practical insights and techniques for aspiring data analysts.
 
 Contents:
@@ -41,3 +49,6 @@ Selamat belajar! 🚀📊
 >Modul ini dalam bahasa campuran: Bahasa Indonesia dan Inggris
 >
 >This module is in mixed language: Indonesian and English
+
+![MIT license badge](https://img.shields.io/github/license/andrecdk/Python-for-Data-Analysis)
+![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/andrecdk/Python-for-Data-Analysis/total?color=pink&label=GitHub%20Downloads)
