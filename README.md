@@ -55,6 +55,13 @@ Selamat belajar! 🚀📊
 ![MIT license badge](https://img.shields.io/github/license/andrecdk/Python-for-Data-Analysis)
 ![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/andrecdk/Python-for-Data-Analysis/total?color=pink&label=GitHub%20Downloads)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/andrecdk/Python-for-Data-Analysis?style=plastic) ![GitHub language count](https://img.shields.io/github/languages/count/andrecdk/Python-for-Data-Analysis?style=plastic) ![GitHub top language](https://img.shields.io/github/languages/top/andrecdk/Python-for-Data-Analysis?style=plastic) ![GitHub last commit](https://img.shields.io/github/last-commit/andrecdk/Python-for-Data-Analysis?color=red&style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/andrecdk/Python-for-Data-Analysis?style=dynamic) 
+![GitHub language count](https://img.shields.io/github/languages/count/andrecdk/Python-for-Data-Analysis?style=dynamic) 
+![GitHub top language](https://img.shields.io/github/languages/top/andrecdk/Python-for-Data-Analysis?style=dynamic)
+![GitHub last commit](https://img.shields.io/github/last-commit/andrecdk/Python-for-Data-Analysis?color=red&style=dynamic)
 
-![GitHub stars](https://img.shields.io/github/stars/andrecdk/Python-for-Data-Analysis?style=social) ![GitHub forks](https://img.shields.io/github/forks/andrecdk/Python-for-Data-Analysis?style=social) ![GitHub watchers](https://img.shields.io/github/watchers/andrecdk/Python-for-Data-Analysis?style=social) ![GitHub followers](https://img.shields.io/github/followers/andrecdk?style=social)
+![GitHub stars](https://img.shields.io/github/stars/andrecdk/Python-for-Data-Analysis?style=social) 
+![GitHub forks](https://img.shields.io/github/forks/andrecdk/Python-for-Data-Analysis?style=social) 
+![GitHub watchers](https://img.shields.io/github/watchers/andrecdk/Python-for-Data-Analysis?style=social) 
+![GitHub followers](https://img.shields.io/github/followers/andrecdk?style=social)
+
