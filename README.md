@@ -51,7 +51,7 @@ Selamat belajar! 🚀📊
 >This module is in mixed language: Indonesian and English
 
 
-### Stats
+### Stats and Info
 ![MIT license badge](https://img.shields.io/github/license/andrecdk/Python-for-Data-Analysis)
 ![Number of GitHub Downloads badge](https://img.shields.io/github/downloads/andrecdk/Python-for-Data-Analysis/total?color=pink&label=GitHub%20Downloads)
 
